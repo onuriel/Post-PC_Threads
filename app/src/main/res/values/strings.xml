@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ThreadActivities</string>
+    <string name="async_button">AsyncTask Activity</string>
+    <string name="threads_button">Threads Activity</string>
+    <string name="start_button">Start</string>
+    <string name="create_button">Create</string>
+    <string name="cancel_button">Cancel</string>
+</resources>
